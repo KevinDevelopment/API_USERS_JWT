@@ -5,7 +5,6 @@
 <h2 align="center">
     Descrição do projeto
 </h2>
-
 <p align="center">API feita em NodeJS, utilizando express e arquitetura de services e controllers, para facilitar organização e entendimento;</p>
 
 <h1 align="center">

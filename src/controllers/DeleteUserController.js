@@ -10,14 +10,14 @@ class DeleteUserController {
 
     if (result.length == 0) {
       return res.status(406).json({
-        status: "O id informado não existe no banco de dados!"
+        status: "O ID informado não existe no banco de dados!"
       })
     }
 
     await DeleteUserService.delete(id);
 
     return res.status(200).json({
-      status: "Deletado com sucesso!"
+      status: "Usuário deletado com sucesso!"
     })
   }
 

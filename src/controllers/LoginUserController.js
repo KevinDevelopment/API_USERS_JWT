@@ -19,7 +19,7 @@ class LoginUserController {
 
     if (!result) {
       return res.status(403).json({
-        status: "Senha incorreta!"
+        status: "Dados inválidos, tente novamente!"
       })
     }
 

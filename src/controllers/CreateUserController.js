@@ -8,7 +8,7 @@ class CreateUserController {
 
     if (!id) {
       return res.status(406).json({
-        status: "dados inválidos!"
+        status: "Dados inválidos!"
       })
     }
 

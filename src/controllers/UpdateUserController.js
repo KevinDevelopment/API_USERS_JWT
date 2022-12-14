@@ -11,7 +11,7 @@ class UpdateUserController {
 
     if (result.length == 0) {
       return res.status(406).json({
-        status: "O id informado não existe no banco de dados!"
+        status: "O ID informado não existe no banco de dados!"
       })
     }
 

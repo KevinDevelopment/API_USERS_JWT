@@ -8,7 +8,7 @@ class ListUserController {
 
     if (result.length == 0) {
       return res.status(404).json({
-        status: "Nenhum usuário cadastrado no momento!"
+        status: "Não existem usuários cadastrados no momento!"
       })
     }
     
