@@ -1,6 +1,11 @@
-# API para cadastro e login de usuários;
+<h1 align="center">
+    API para cadastro e login de usuarios, com autenticação via JWT;
+</h1>
 
-## Descrição do Projeto
+<h2 align="center">
+    Descrição do projeto
+</h2>
+
 <p align="center">API feita em NodeJS, utilizando express e arquitetura de services e controllers, para facilitar organização e entendimento;</p>
 
 <h1 align="center">
