@@ -1,5 +1,4 @@
 # API para cadastro e login de usuários;
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
 ## Descrição do Projeto
 <p align="center">API feita em NodeJS, utilizando express e arquitetura de services e controllers, para facilitar organização e entendimento;</p>
